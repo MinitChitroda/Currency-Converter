@@ -13,6 +13,7 @@ A simple and user-friendly tool that lists, converts, and fetches exchange rates
 3) pprint library (for pretty-printing JSON response)
 4) You can install the necessary libraries using the following command:
 
-\`\`\`
+```
 pip install requests pprint
-\`\`\`
+```
+
