@@ -17,3 +17,7 @@ A simple and user-friendly tool that lists, converts, and fetches exchange rates
 pip install requests pprint
 ```
 
+**Notes**
+Ensure your API key is valid and correctly placed in the config.json file.
+Some commands may require internet connectivity to fetch the latest data from the Free Currency API.
+Get your own API key from [Free Currency API](https://freecurrencyapi.com/).
